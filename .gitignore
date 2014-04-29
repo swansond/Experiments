@@ -1,0 +1,8 @@
+*.class
+.classpath
+.idea
+*.tar.*
+.DS_Store
+*.iml
+*.eml
+.metadata
